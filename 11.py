@@ -9,5 +9,7 @@ def is_len():
 a = [x for x in input().split()]
 lst = [x for x in a if len(x) >= 6]
 lst1 = 5
+lst3 = 7
 print(*lst)
 print(lst1)
+print(lst3)
